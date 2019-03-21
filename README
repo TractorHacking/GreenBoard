@@ -1,0 +1,5 @@
+This is code used by the Cal Poly Capstone group PolyCan to interact with a jCOM j1939 Board. 
+This code is modified from open source code found at:
+https://copperhilltech.com/blog/programming-the-sae-j1939-ecu-simulator-board-using-visual-studio-c/.
+This lets us to capture any CAN traffic and store into our type of .csv log files
+Additional, we can use this software to transmite our type of .csv log files on the CAN bus
