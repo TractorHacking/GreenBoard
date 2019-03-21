@@ -1,0 +1,9 @@
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\bin\Debug\polyCan_jCOM.exe.config
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\bin\Debug\polyCan_jCOM.exe
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\bin\Debug\polyCan_jCOM.pdb
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.frmMain.resources
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.Properties.Resources.resources
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.csproj.GenerateResource.Cache
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.csproj.CoreCompileInputs.cache
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.exe
+C:\Users\samma\OneDrive\Documents\College\Cal-Poly\2018-2019\Capstone\polyCan_jCOM\polyCan_jCOM\obj\Debug\polyCan_jCOM.pdb

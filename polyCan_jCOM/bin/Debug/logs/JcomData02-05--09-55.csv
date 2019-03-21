@@ -1,0 +1,4 @@
+time , pgn , destination , source , priority , data,
+
+046.159905, 60928, 255, 0, 6, FF FF FF FF 00 FF FE 80 
+051.106558, 60928, 255, 0, 6, FF FF FF FF 00 FF FE 80 
